@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(193, 205, 85);
+   
+}
+h1{
+    text-align: center;
+    color: brown;
+    margin-bottom: 6px;
+}
+.add{
+    text-align: center;
+     margin-top: 0;
+     font-size: 14px;
+     font-weight: bold;
+}
+.btn{
+    text-align: center;
+    align-content: center;
+    padding: 100px;
+    
+}
+.button{
+    border-radius: 50px;
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    font-family: cursive;
+    background-color: white;
+    color: black;
+}
+
+btn.button{
+    
+  transition: all 5s ease;
+}
+
+button:hover {
+    
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.5s ease;
+}
+
